@@ -1,0 +1,18 @@
+header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  min-height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: black;
+}
+.nav {
+  display: inline-block;
+  vertical-align: top;
+  width: 100%;
+}
+#main {
+  margin-top: 100px;
+}
