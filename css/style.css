@@ -8,6 +8,11 @@ header {
   justify-content: space-around;
   background-color: black;
 }
+@media (max-width: 600px){
+  header {
+    flex-direction: row;
+  }
+}
 .nav {
   display: inline-block;
   vertical-align: top;
